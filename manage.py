@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
+
+
+#command to activate virtual environment
+#source tutorial-env/bin/activate
+
+
+
 import os
 import sys
 
